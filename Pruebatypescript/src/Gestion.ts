@@ -1,5 +1,7 @@
+
 import { Enfermero } from "./Enfermero";
 import { Trabajador } from "./Trabajador";
+
 
 export class Gestion{
 

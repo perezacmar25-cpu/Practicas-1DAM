@@ -12,6 +12,12 @@ export class Trabajador {
 
     }
 
+    getNombre():string{
+        return this.name;
+    }
+
+    
+
     calcularSueldo(cobroHora: number): number {
 
         return cobroHora * this.horasTrabajadas;

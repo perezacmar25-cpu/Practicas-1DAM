@@ -1,5 +1,5 @@
 
-import { Trabajador } from "./Trabajador";
+import { Trabajador } from "../src/Trabajador";
 export class Enfermero extends Trabajador {
 
     cirujano: boolean;
