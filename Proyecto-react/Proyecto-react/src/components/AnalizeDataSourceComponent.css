@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+.cuerpo{
+
+    border: solid blue;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    margin-top: 10px;
+    
+    
+}
+
+
+
+button{
+
+    background-color:cadetblue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.cabecera{
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 600px;
+    
+    
+    
+}
+
+

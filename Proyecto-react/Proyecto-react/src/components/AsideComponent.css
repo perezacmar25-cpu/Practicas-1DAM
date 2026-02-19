@@ -1,0 +1,35 @@
+
+
+
+.aside{
+
+    width: 15%;
+    flex-direction: column;
+    list-style: none;
+    color: blue;
+    margin: 0;
+    padding-left: 0;
+    
+
+
+}
+
+li{
+    height: 30px;
+    width: 200px;
+}
+
+ul li{
+
+margin-bottom: 35px;
+}
+
+aside ul li:hover{
+
+    background-color: gray;
+    padding-top: 5px;
+    
+    cursor: pointer;
+
+
+}
