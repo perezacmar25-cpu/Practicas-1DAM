@@ -3,7 +3,6 @@
 }
 
 
-
 .cuerpo{
 
     border: solid blue;
@@ -15,12 +14,12 @@
     color: blue;
     margin-top: 10px;
     
-    
+
 }
 
 
 
-button{
+#button1{
 
     background-color:cadetblue;
     border-radius: 5px;

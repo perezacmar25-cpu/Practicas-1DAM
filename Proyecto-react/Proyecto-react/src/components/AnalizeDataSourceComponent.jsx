@@ -32,7 +32,7 @@ function AnalizeDataSourceComponent() {
                                 </svg>
                                 Drag your files here
                                 <br />
-                                <button style={{ marginTop: "10px" }}>Browse</button>
+                                <button id='button1' style={{ marginTop: "10px" }}>Browse</button>
                             </div>
                         </div>}
                     </div>
