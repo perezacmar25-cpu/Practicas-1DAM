@@ -14,10 +14,12 @@ class Gestion {
         this.lista.forEach(trabajador => {
             if (trabajador.id === id) {
                 encontrado = trabajador;
+                
             }
         });
         return encontrado;
     }
+
     findById2(id) {
         let indice = -1;
         this.lista.forEach((trabajador, index) => {
@@ -33,5 +35,7 @@ class Gestion {
             this.lista[index].horasTrabajadas += horas;
         }
     }
+
+    
 }
 exports.Gestion = Gestion;

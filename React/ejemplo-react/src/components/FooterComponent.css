@@ -1,0 +1,23 @@
+.footer {
+    background-color: blue;
+    color: white;
+    margin-top: 250px;
+    
+}
+
+
+.footer-list {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    list-style: none;
+
+}
+
+.link {
+
+    color: white;
+    text-decoration: none;
+
+
+}
